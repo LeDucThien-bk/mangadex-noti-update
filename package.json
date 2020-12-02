@@ -1,0 +1,26 @@
+{
+  "name": "mangadex-noti-update",
+  "version": "1.0.0",
+  "description": "mangadex-noti-update",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeDucThien-bk/mangadex-noti-update.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeDucThien-bk/mangadex-noti-update/issues"
+  },
+  "homepage": "https://github.com/LeDucThien-bk/mangadex-noti-update#readme",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "cheerio": "^1.0.0-rc.3",
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.1"
+  }
+}
